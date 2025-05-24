@@ -360,7 +360,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/chipsxp) - Project Lead & Developer
+- [Jimmy Burns](https://github.com/chipsxp) - Project Lead & Developer
 
 ## 🔗 Additional Resources
 
